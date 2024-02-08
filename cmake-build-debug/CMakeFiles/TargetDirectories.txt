@@ -1,0 +1,3 @@
+/Users/shreekumar/Documents/Career/Work/Study/GitHub_Scratchpad/feature-x/cmake-build-debug/CMakeFiles/feature_x.dir
+/Users/shreekumar/Documents/Career/Work/Study/GitHub_Scratchpad/feature-x/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shreekumar/Documents/Career/Work/Study/GitHub_Scratchpad/feature-x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
